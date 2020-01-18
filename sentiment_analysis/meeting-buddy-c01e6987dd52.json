@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-buddy-262011",
+  "private_key_id": "c01e6987dd52b3c21acd06a827f56b9aba8520f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDicRcnCUyrhzGE\npFUkKa/QM9R+wGEKSuYQrje7giY4N1Io0Hut0anIiuhaYfrEpIm9vr2Bupkpfpih\nZnxPEMwWkVYJTS33mQReA4nTbt5nzQDQy8BrLsED8CnqS2k2crjb8X47wkXfuFtY\nxpT4U0IxOuW/1DNRG96SySwLr9dxXnD2fKdVFAyl8TaYBPhsWj2tfXXI+vwzegS8\nxJbDWaGVf53ji9L2PPZRks5JV4iWVyOv5j1/yDHxCqHcO9HazRwkOPiDOIvv4lqz\nLe3oS1FkK20OkQZTpENM1gijtjs/nzHna54FASmiYimG9YGx3Q7TzavKl8YTVOm9\n6Z8XSPgdAgMBAAECggEAIyta4/R5DLwI6BfI5H64AH+ITa5t8/YJkQYqAEy4yGrp\nLw8gYnEJrGzMpTsKAnAmt4pwLv2vC6eOp6S+Al6yv/+PLA8paEcDC2IDzkuuLdOE\ngKlgp5UBo+2xaOMRAoSjav+xMjFcfmCJCXsASKhPw8sow1g/JyYLteMaXO9Q6Bmu\n6GaFkkv74quPDY2aR/wZxc1mxhv5YI/j2TnXh/hifEkfLfTK1mJn26IZXjIT75iY\nU4rVlLkVZn8keiuNHWfg4uzkmn4Qk//AAQi33MuxMl47T4hqwnxVv02upOj6VhqD\nWiuf+T7rGqKyaxW1JiDNIqoN4NJJMA5G31bZjAOGuQKBgQDz/qF10kzg6tQL61Dh\nUbNZlU6Ov9y6B2T0eNHqW2Ai/U8C6N6qFe0nuRmPHvn1/xxXnQVkSqoBcKh/KI78\nr2kjfWUxBMt/I+QjOFZYgJBOnGA1D2Z8nlDwE1MRYCkfJOZI6XniiEC1LmBjggx8\nyiN5ZAt72xuEoT0Tjsq6ELFQyQKBgQDtlVzTY9EBoA2v8afgqe4+GqGJR+MvziBI\nasm6drPI71Vbeoq74eJCGRZ2S0uK8M1bY9o2QaHmMUi9lTxw2HHNj7Ng5UFuWpGi\ny8B0QBK8W5LDm0AVoQBl87O4p+RgJzNhm91LRPIX0p8gOG1/3qpuJWpV8OCJV5kX\nxGbb8ysKtQKBgQCcxaX+q0JEXf4jLm6IZ9NiIwIXzIVJbkjan+rYtx99O98RkojH\nJlF77X3TrOaUvfb7AGQffa3gQP+yvF+rUhWu/PoQ1fDe3zPNwXwRX4HZULasQRnr\nxllg+Dmud2fUoAPrI0DyYfOZtpOuPDhD0ima7MJIMY9r16IDuALgLKuRqQKBgA85\ny0Eg3HwmLbpg2kljmokQW9nYaY7evuLlNRhmEw+Fhwrdx5ZS25Uw1meuW6ED3aVF\nuO5RNnbyIZ9EuSLiPCjYVL6Y8qCH3V15gVPx50F6/OTcRjccolHmVFY5LEGdQYW3\n3267dGhibyA5fYr8Uh/M9gub7Efg/Uawp4bhBpkhAoGAEVHGQ+LIBftKLNbN45aN\nywwgJRW4TYXTMxulWEqQjzoXpeUhOYO6+hRf6oiUL8AoVSewR5xDqA5YMCiumti2\nCePwaAicTirdRI8Mu3PSHsspyJBwPmsXq8XzkUgtrCaBt3FCM6qw2ZEeMq5Gqlfr\nQv/aio3i/WRjePLkc3nk3PI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "meeting-buddy-speech2text@meeting-buddy-262011.iam.gserviceaccount.com",
+  "client_id": "103282951269617706375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meeting-buddy-speech2text%40meeting-buddy-262011.iam.gserviceaccount.com"
+}
